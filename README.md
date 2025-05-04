@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mitch, an <a href="https://linkedin.com/in/mitchpauwels">IT Professional</a></h1>
+<h1>Hi, I'm Mitch, an <a href="https://linkedin.com/in/mitch-pauwels">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -23,9 +23,9 @@
 
 <h2>🤳Connect with me on LinkedIn:</h2>
 
-[<img align="left" alt="Ernesto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Mitch Pauwels | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/mitchpauwels
+[linkedin]: https://linkedin.com/in/mitch-pauwels
 
 <!--
 **Mitch-Pauwels/mitch-pauwels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
