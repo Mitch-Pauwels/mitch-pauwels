@@ -39,7 +39,7 @@ A fully documented Azure-based deployment of Active Directory, GPO, file shares,
 
 ---
 
-### 🔹 [osTicket Helpdesk Deployment](https://github.com/yourusername/osticket-lab)
+### 🔹 [osTicket Helpdesk Deployment](https://github.com/yourusername/osticket-lab) (Under Development)
 End-to-end deployment of the osTicket ticketing system, from prerequisites to user testing — hosted on cloud infrastructure with a Windows backend.
 
 > 🔧 Technologies: IIS, PHP, MySQL, Windows Server
