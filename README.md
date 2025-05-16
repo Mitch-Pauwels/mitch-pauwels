@@ -39,12 +39,11 @@ End-to-end deployment of the osTicket ticketing system, from prerequisites to us
 
 ## 📚 Skills & Tools
 
-- **Cloud Platforms:** Microsoft Azure, Oracle Cloud Free Tier  
-- **Operating Systems:** Windows Server 2022, Windows 10  
+- **Cloud Platforms:** Microsoft Azure, Google Cloud Platform
+- **Operating Systems:** Windows Server 2019/2022, Windows 10/11, Ubuntu  
 - **Directory Services:** Active Directory, Group Policy, Certificate Services  
-- **Scripting/Automation:** PowerShell (basic), Terraform (in progress)  
+- **Scripting/Automation:** PowerShell, Terraform  
 - **Networking:** DNS, DHCP, IP Configuration, Subnetting  
-- **Support Tools:** osTicket, Remote Desktop Services, gpresult/gpupdate
 
 ---
 
