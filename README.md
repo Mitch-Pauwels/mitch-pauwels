@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mitch 👋 — IT Professional with a Passion for Infrastructure & Support</h1>
+<h1 align="center">Hi, I'm Mitch 👋 — <a href="https://linkedin.com/in/mitch-pauwels">IT Professional</a> with a Passion for Infrastructure & Support</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/mitch-pauwels">
