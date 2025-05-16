@@ -31,7 +31,7 @@ My background in operations gives me a sharp eye for detail, **cross-functional 
 
 ## 🛠️ Featured Projects
 
-### 🔹 [Enterprise AD DS Environment in Azure](https://github.com/yourusername/azure-active-directory-lab)
+### 🔹 [Enterprise AD DS Environment in Azure](https://github.com/Mitch-Pauwels/Azure-AD-Domain-Lab)
 A fully documented Azure-based deployment of Active Directory, GPO, file shares, and user/group management. Simulates a real-world IT enterprise setup.
 
 > 🔧 Technologies: Azure IaaS, Windows Server 2022, AD DS, GPO, NTFS/Share Permissions  
