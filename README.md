@@ -11,11 +11,22 @@
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-I'm an aspiring IT Support & Systems Administrator with hands-on experience building enterprise-grade environments in **Microsoft Azure**, deploying real-world technologies like **Active Directory**, **Group Policy**, **osTicket**, and more.
+Motivated and detail-oriented **IT Support Specialist** with real-world lab experience across cloud platforms, enterprise systems, and helpdesk operations. I specialize in deploying and managing **Windows Server**, **Active Directory**, **Microsoft 365**, and **ticketing systems** like **osTicket** and **JIRA**.
 
-I specialize in creating cloud-based infrastructure and documenting my labs like production deployments. My goal is to combine practical skills, automation, and professional standards to solve real-world IT problems.
+Certified as a **Google Cloud Associate Cloud Engineer** and **CompTIA A+**, currently pursuing **Network+** and **Security+**.
+
+> 🔧 I’ve built cloud labs simulating enterprise IT infrastructure using **Azure**, **GCP**, and **Oracle Cloud**, and I bring a strong foundation in:
+> - User account and group management  
+> - Networking fundamentals (IP, DNS, DHCP, subnets)  
+> - Endpoint protection and policy-based access  
+> - ITIL-aligned support practices, including SLAs and incident response  
+> - Ticket lifecycle handling and helpdesk troubleshooting  
+> - Compliance-driven documentation and process discipline
+
+My background in operations gives me a sharp eye for detail, **cross-functional collaboration**, and a commitment to **clear, professional documentation** in every project I build.
+
 
 ---
 
