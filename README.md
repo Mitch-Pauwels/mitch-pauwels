@@ -17,7 +17,7 @@ Motivated and detail-oriented **IT Support Specialist** with real-world lab expe
 
 Certified as a **Google Cloud Associate Cloud Engineer** and **CompTIA A+**, currently pursuing **Network+** and **Security+**.
 
-> 🔧 I’ve built cloud labs simulating enterprise IT infrastructure using **Azure**, **GCP**, and **Oracle Cloud**, and I bring a strong foundation in:
+> 🔧 I’ve built cloud labs simulating enterprise IT infrastructure using **Azure**and I bring a strong foundation in:
 > - User account and group management  
 > - Networking fundamentals (IP, DNS, DHCP, subnets)  
 > - Endpoint protection and policy-based access  
@@ -26,7 +26,6 @@ Certified as a **Google Cloud Associate Cloud Engineer** and **CompTIA A+**, cur
 > - Compliance-driven documentation and process discipline
 
 My background in operations gives me a sharp eye for detail, **cross-functional collaboration**, and a commitment to **clear, professional documentation** in every project I build.
-
 
 ---
 
@@ -43,7 +42,7 @@ A fully documented Azure-based deployment of Active Directory, GPO, file shares,
 ### 🔹 [osTicket Helpdesk Deployment](https://github.com/yourusername/osticket-lab)
 End-to-end deployment of the osTicket ticketing system, from prerequisites to user testing — hosted on cloud infrastructure with a Windows backend.
 
-> 🔧 Technologies: IIS, PHP, MySQL, Windows Server, Oracle Cloud  
+> 🔧 Technologies: IIS, PHP, MySQL, Windows Server
 > 🎯 Focused on real-world IT support workflows and ticket lifecycle simulation.
 
 ---
