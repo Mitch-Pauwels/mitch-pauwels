@@ -52,7 +52,7 @@ End-to-end deployment of the osTicket ticketing system, from prerequisites to us
 - **Cloud Platforms:** Microsoft Azure, Google Cloud Platform
 - **Operating Systems:** Windows Server 2019/2022, Windows 10/11, Ubuntu  
 - **Directory Services:** Active Directory, Group Policy, Certificate Services  
-- **Scripting/Automation:** PowerShell, Terraform  
+- **Scripting/Automation:** PowerShell  
 - **Networking:** DNS, DHCP, IP Configuration, Subnetting  
 
 ---
