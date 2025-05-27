@@ -31,6 +31,14 @@ My background in operations gives me a sharp eye for detail, **cross-functional 
 
 ## 🛠️ Featured Projects
 
+### 🔹 [Azure Entra User Management Lab](https://github.com/Mitch-Pauwels/Azure-Entra-User-Management)
+Real-world onboarding/offboarding simulation using Microsoft Entra ID and Microsoft Graph PowerShell. Includes helpdesk ticket scenarios and automation scripts.
+
+> 🔧 Technologies: Entra ID (Azure AD), PowerShell, Azure Portal  
+> 📸 Organized screenshots, ticket-based workflows, reusable scripts
+
+---
+
 ### 🔹 [Enterprise AD DS Environment in Azure](https://github.com/Mitch-Pauwels/Azure-AD-Domain-Lab)
 A fully documented Azure-based deployment of Active Directory, GPO, file shares, and user/group management. Simulates a real-world IT enterprise setup.
 
