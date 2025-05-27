@@ -69,7 +69,6 @@ End-to-end deployment of the osTicket ticketing system, from prerequisites to us
 
 - 📫 LinkedIn: [Connect with me](https://linkedin.com/in/mitch-pauwels)
 - 📧 Email: [Get in touch](mitch.pauwels@proton.me)
-- 🌐 GitHub: [Portfolio Project](https://github.com/mitch-pauwels)
 
 ---
 
