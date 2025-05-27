@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 About Me
+### 👱‍♂️ About Me
 
 Motivated and detail-oriented **IT Support Specialist** with real-world lab experience across cloud platforms, enterprise systems, and helpdesk operations. I specialize in deploying and managing **Windows Server**, **Active Directory**, **Microsoft 365**, and **ticketing systems** like **osTicket** and **JIRA**.
 
